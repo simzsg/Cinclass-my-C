@@ -17,6 +17,7 @@ int main(void){
     printf("++++++++++++++++++++++++++++++++++++\n");
     printf("Each person should pay %.2lf Baht\n", share);
     printf("++++++++++++++++++++++++++++++++++++\n");
+    
     return 0;
 }
 
